@@ -2,7 +2,7 @@
 import requests
 import os
 
-# URL do dataset do Auxílio Brasil (exemplo fictício)
+# URL do dataset do Auxílio Brasil 
 url = "https://dados.gov.br/dataset/auxilio-brasil"
 
 # Caminho para salvar o arquivo
